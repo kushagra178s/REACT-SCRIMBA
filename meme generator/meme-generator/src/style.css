@@ -64,5 +64,8 @@ main {
 }
 
 .meme--image{
+    margin: 20px;
+    padding:20px;
+    justify-content: center;
     max-width: 100%;
 }
